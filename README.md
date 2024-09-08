@@ -7,7 +7,7 @@ Answer: Understanding my audience’s expertise level can help me to effectively
 1. Language and Terminology
    - Tech Experts :
       Use of industry-specific jargon, acronyms, and technical terms without much explanation. Experts are familiar with the terminology, so this approach allows me to dive                    deeper into complex topics without over-explaining.
-  - Regular Folks:
+   - Regular Folks:
     Simplifying my language, avoiding or clearly explaining technical jargon. Use of analogies and everyday language to make complex concepts more relatable and easier to                     understand.
 2. Depth of Information
     - Tech Experts:
